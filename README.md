@@ -7,7 +7,7 @@ This project aims at building an inventory tracking system for ventilators that 
 
  ![Picture3](https://user-images.githubusercontent.com/55947622/132517995-6f7e7f8d-9d28-49b3-9ac0-6f876c8f5715.png)
 
-the details  regarding information related to medical inventory in hospitals are displayed in third party app known POSTMAN
+=>the details  regarding information related to medical inventory in hospitals are displayed in third party app known POSTMAN
   
  1)Postman is a standalone software testing API platform to test, design, modify, and document APIs. 
 
@@ -17,7 +17,7 @@ the details  regarding information related to medical inventory in hospitals are
 
 4)This tool has the ability to make various types of HTTP requests like GET, POST, PUT, DELETE.
 
-Why Postman?
+=>Why Postman?
 
 1)Accessibility- One can use it anywhere after installing Postman into the device by simply logging in to the account.
 
