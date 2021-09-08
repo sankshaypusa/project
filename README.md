@@ -27,7 +27,9 @@ This project aims at building an inventory tracking system for ventilators that 
 
 4)Debugging- To effectively debug the tests, the postman console helps to track what data is being retrieved.
 
+
 =>HOW IT WORKS
+
 ![Picture4](https://user-images.githubusercontent.com/55947622/132520179-1e703ed1-f641-4a5b-98b3-a5b5da5ac895.png)
 
   
