@@ -35,7 +35,8 @@ This project aims at building an inventory tracking system for ventilators that 
   
  OUTPUT:-
 HOSPITAL AVAILABLE IN THE DATABASE
-![image](https://user-images.githubusercontent.com/55947622/132520829-16b166c1-5e39-439b-a8f2-facf5e2e0e5c.png)
+![Picture5](https://user-images.githubusercontent.com/55947622/132521527-d028e23a-1d64-4790-ab52-f0c82c516ece.png)
+
 displayed in JSON format in postman
 
 
