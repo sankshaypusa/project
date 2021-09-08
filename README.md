@@ -9,13 +9,23 @@ This project aims at building an inventory tracking system for ventilators that 
 
 the details  regarding information related to medical inventory in hospitals are displayed in third party app known POSTMAN
   
-  Postman is a standalone software testing API platform to test, design, modify, and document APIs. 
+ 1)Postman is a standalone software testing API platform to test, design, modify, and document APIs. 
 
-It is a simple Graphic User Interface for sending and viewing HTTP requests and responses.
+2)It is a simple Graphic User Interface for sending and viewing HTTP requests and responses.
 
-While using Postman, for testing purposes, one doesn't need to write any HTTP client network code. Instead, we build test suites called collections and let Postman interact with the API.
+3)While using Postman, for testing purposes, one doesn't need to write any HTTP client network code. Instead, we build test suites called collections and let Postman interact with the API.
 
-This tool has the ability to make various types of HTTP requests like GET, POST, PUT, DELETE.
+4)This tool has the ability to make various types of HTTP requests like GET, POST, PUT, DELETE.
+
+Why Postman?
+
+1)Accessibility- One can use it anywhere after installing Postman into the device by simply logging in to the account.
+
+2)Use Collections-Postman allows users to build collections for their API-calls. Every set can create multiple requests and subfolders. It will help to organize the test suites.
+
+3)Automation Testing-Tests can be performed in several repetitions or iterations by using the Collection Runner, which saves time for repeated tests.
+
+4)Debugging- To effectively debug the tests, the postman console helps to track what data is being retrieved.
 
 
   
