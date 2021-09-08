@@ -7,7 +7,16 @@ This project aims at building an inventory tracking system for ventilators that 
 
  ![Picture3](https://user-images.githubusercontent.com/55947622/132517995-6f7e7f8d-9d28-49b3-9ac0-6f876c8f5715.png)
 
- 
+and details of the hospitals regarding information related to medical inventory are displayed in third party app known POSTMAN
+Postman is a standalone software testing API platform to test, design, modify, and document APIs. 
+
+It is a simple Graphic User Interface for sending and viewing HTTP requests and responses.
+
+While using Postman, for testing purposes, one doesn't need to write any HTTP client network code. Instead, we build test suites called collections and let Postman interact with the API.
+
+This tool has the ability to make various types of HTTP requests like GET, POST, PUT, DELETE.
+![image](https://user-images.githubusercontent.com/55947622/132519048-16b15f3d-df18-4cf3-8609-54332a57d4de.png)
+
   
  
 
